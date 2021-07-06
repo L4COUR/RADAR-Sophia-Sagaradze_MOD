@@ -14,5 +14,8 @@ Bests!
 - ![Custom-viewer](./media/Custom-viewer.png)
 
 - ![Nodes-connected-SourceXY](./media/Nodes-connected-SourceXY.png)
-- The number of Nodes should represent the number af active channels in the patch
-- 
+- The number of Nodes should represent the number af active channels in the patch, this was dont by using the "r routePopulate" which tells how many samples is loaded into the patch.
+- ![custom-viewer-dynamicNodes](./media/custom-viewer-dynamicNodes.png)
+
+- to make it more dynamic when the patch is loaded no nodes are shown, but as soon as samples are loaded the corresponding number of nodes will show in the custom viewer.
+
