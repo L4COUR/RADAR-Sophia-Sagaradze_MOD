@@ -18,4 +18,3 @@ Bests!
 - ![custom-viewer-dynamicNodes](./media/custom-viewer-dynamicNodes.png)
 
 - to make it more dynamic when the patch is loaded no nodes are shown, but as soon as samples are loaded the corresponding number of nodes will show in the custom viewer.
-
